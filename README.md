@@ -1,2 +1,2 @@
 # Professional-Statement
-My professional statement. 
+I am a disciplined and passionate cybersecurity professional with a strong foundation in Python, Linux, and data analysis. With refined written and verbal communication skills and a commitment to time management, I bring a leadership mindset and an eagerness to grow within the field. My core values- helping and protecting others (Tzedek), delivering high-quality work, and embracing discomfort in the pursuit of growth- drive my mission to secure digital environments and educate individuals on safeguarding themselves. I am motivated by the opportunity to support organizations in achieving their security goals and am committed to making a meaningful impact in protecting people and systems alike.
